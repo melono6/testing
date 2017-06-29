@@ -11,8 +11,8 @@ Tested in Chrome, firefox and safari on osx
 ## Running project
 
 ```
-$ npm i
 $ cd src
+$ npm i
 $ gulp build
 $ node ./server
 $ navigate to http://127.0.0.1:8000
